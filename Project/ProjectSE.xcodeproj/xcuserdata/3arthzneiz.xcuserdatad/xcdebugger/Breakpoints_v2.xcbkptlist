@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Instragram/signUpVC.swift"
+            timestampString = "480841788.927494"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "hideKeyboard(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Instragram/homevc.swift"
+            timestampString = "484233594.60017"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "homevc"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Instragram.homevc.init (Instragram.homevc.Type)(collectionViewLayout : __ObjC.UICollectionViewLayout) -&gt; Instragram.homevc"
+                  moduleName = "Instragram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/3arthzneiz/Desktop/untitled%20folder/File/Encapsu2/IODP01_SWIFT2.0/YourWorkshops/Instragram/Instragram/homevc.swift"
+                  timestampString = "484238694.566639"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Instragram.homevc.init (Instragram.homevc.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; Instragram.homevc"
+                  moduleName = "Instragram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/3arthzneiz/Desktop/untitled%20folder/File/Encapsu2/IODP01_SWIFT2.0/YourWorkshops/Instragram/Instragram/homevc.swift"
+                  timestampString = "484238694.566795"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Instragram.homevc.init (Instragram.homevc.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Instragram.homevc&gt;"
+                  moduleName = "Instragram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/3arthzneiz/Desktop/untitled%20folder/File/Encapsu2/IODP01_SWIFT2.0/YourWorkshops/Instragram/Instragram/homevc.swift"
+                  timestampString = "484238694.566962"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Instragram/homevc.swift"
+            timestampString = "484242478.641541"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "loadPost()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProjectSE/File.swift"
+            timestampString = "484760598.785933"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "getsup()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProjectSE/homevc.swift"
+            timestampString = "484838081.681104"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "collectionView(_:viewForSupplementaryElementOfKind:atIndexPath:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProjectSETests/ProjectSETests.swift"
+            timestampString = "485094483.471698"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "testExample()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProjectSETests/ProjectSETests.swift"
+            timestampString = "485094483.471698"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "testExample()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProjectSETests/ProjectSETests.swift"
+            timestampString = "484823385.775278"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ProjectSETests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjectSETests.ProjectSETests.__deallocating_deinit"
+                  moduleName = "ProjectSETests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/3arthzneiz/Desktop/untitled%20folder/File/Encapsu2/IODP01_SWIFT2.0/YourWorkshops/ProjectSE/ProjectSETests/ProjectSETests.swift"
+                  timestampString = "484856827.96503"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjectSETests.ProjectSETests.init (ProjectSETests.ProjectSETests.Type)(invocation : Swift.Optional&lt;__ObjC.NSInvocation&gt;) -&gt; ProjectSETests.ProjectSETests"
+                  moduleName = "ProjectSETests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/3arthzneiz/Desktop/untitled%20folder/File/Encapsu2/IODP01_SWIFT2.0/YourWorkshops/ProjectSE/ProjectSETests/ProjectSETests.swift"
+                  timestampString = "484856827.965986"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "25">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjectSETests.ProjectSETests.init (ProjectSETests.ProjectSETests.Type)(selector : ObjectiveC.Selector) -&gt; ProjectSETests.ProjectSETests"
+                  moduleName = "ProjectSETests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/3arthzneiz/Desktop/untitled%20folder/File/Encapsu2/IODP01_SWIFT2.0/YourWorkshops/ProjectSE/ProjectSETests/ProjectSETests.swift"
+                  timestampString = "484856827.966809"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "25">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjectSETests.ProjectSETests.init (ProjectSETests.ProjectSETests.Type)() -&gt; ProjectSETests.ProjectSETests"
+                  moduleName = "ProjectSETests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/3arthzneiz/Desktop/untitled%20folder/File/Encapsu2/IODP01_SWIFT2.0/YourWorkshops/ProjectSE/ProjectSETests/ProjectSETests.swift"
+                  timestampString = "484856827.969648"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProjectSETests/ProjectSETests.swift"
+            timestampString = "485094483.471698"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "testExample()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProjectSETests/ProjectSETests.swift"
+            timestampString = "485094483.471698"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "testExample()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
